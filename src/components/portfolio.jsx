@@ -10,13 +10,21 @@ const projects = [
     live: "https://taiyaki-website-cle4.vercel.app/",
     github: "https://github.com/username/taiyaki",
   },
+    {
+    title: "Klyr - Modern Cloud Banking & Finance Management",
+    description: "Klyr is a modern, full-stack banking and personal finance management application built with React, TypeScript, Node.js, and MySQL. It provides users with a seamless experience for managing their finances, including virtual cards, money transfers, and transaction tracking",
+    image: "https://i.ibb.co/dJ5bN5QX/Screenshot-2025-08-12-214336.png",
+    tech: ["React", "TypeScipt", "MySQL" , "Node.js"],
+    live: null,
+    github: "https://github.com/mhaoead112/Klyr",
+  },
   {
-    title: "UI Mockup for E-Commerce App",
-    description: "A polished Figma prototype for a mobile-first online store.",
-    image: "/images/ecommerce-mockup.png",
-    tech: ["Figma", "UI Design", "Prototyping"],
-    live: "https://figma.com/file/yourfileid",
-    github: null,
+    title: "Racer Simulator",
+    description: "A high-performance, JavaScript-based racing simulation developed as part of the DECI Level 4 program. The project integrates asynchronous API calls to dynamically generate racetracks, handle race state, and process real-time player and AI movements. Features include customizable race parameters, responsive design, and an engaging user interface that mimics real-time racing environments. This project highlights skills in RESTful API integration, asynchronous JavaScript (async/await, Promises), and DOM manipulation for interactive game logic.",
+    image: "https://i.ibb.co/5WTHTksh/Screenshot-2025-08-13-164356.png",
+    tech: ["Javascipt", "OOB programming", "Async/Await" , "HTML" , "CSS" ,"Binary Server"],
+    live: null,
+    github: "https://github.com/mhaoead112/UdaciRacerSim",
   },
   {
     title: "Image Processing Web App",
@@ -27,20 +35,14 @@ const projects = [
     github: "https://github.com/username/landing-redesign",
   },
   {
-    title: "Portfolio Template Project",
-    description: "This portfolio site template showcasing my skills.",
-    image: "/images/portfolio-template.png",
+    title: "Portfolio Project",
+    description: "A modern personal portfolio built with React, Tailwind CSS, and Framer Motion, showcasing projects, skills, and contact information with smooth animations and responsive design..",
+    image: "https://i.ibb.co/7NR2L9QM/Screenshot-2025-08-13-165208.png",
     tech: ["React", "Tailwind", "Framer Motion"],
     live: "https://example.com/portfolio",
-    github: "https://github.com/username/portfolio-template",
+    github: "https://github.com/mhaoead112/Portfolio-Website",
   },
-  {
-    title: "Klyr - Modern Cloud Banking & Finance Management",
-    description: "Klyr is a modern, full-stack banking and personal finance management application built with React, TypeScript, Node.js, and MySQL. It provides users with a seamless experience for managing their finances, including virtual cards, money transfers, and transaction tracking",
-    image: "https://i.ibb.co/dJ5bN5QX/Screenshot-2025-08-12-214336.png",
-    tech: ["React", "TypeScipt", "MySQL" , "Node.js"],
-    github: "https://github.com/mhaoead112/Klyr",
-  }
+
 ];
 
 export default function Portfolio() {
