@@ -99,7 +99,7 @@ export default function Contact() {
             </p>
             <div className="flex gap-6">
               <a
-                href="https://github.com/username"
+                href="https://github.com/mhaoead112"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900 transition"
@@ -107,7 +107,7 @@ export default function Contact() {
                 <Github className="w-6 h-6" />
               </a>
               <a
-                href="https://linkedin.com/in/username"
+                href="https://www.linkedin.com/in/mohamed-hesham-a825a5312/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900 transition"
@@ -115,7 +115,7 @@ export default function Contact() {
                 <Linkedin className="w-6 h-6" />
               </a>
               <a
-                href="https://instagram.com/username"
+                href="https://instagram.com/mohamed__.__h"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900 transition"
