@@ -1,2 +1,2 @@
-##Personal Portfolio Website
+<h1>Personal Portfolio Website<h1/>
 A modern, single-page portfolio built with React, Tailwind CSS, and Framer Motion to showcase projects, skills, and contact information. Features smooth animations, responsive design for all devices, and modular components for easy updates. Integrates EmailJS for direct contact form submissions and includes visually appealing UI/UX elements to highlight work in both frontend and backend development.
