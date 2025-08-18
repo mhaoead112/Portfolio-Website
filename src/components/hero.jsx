@@ -33,7 +33,7 @@ export default function Hero() {
 
           {/* Subtitle */}
           <p className="mt-6 text-gray-500 text-lg max-w-xl">
-            — It's <span className="font-medium text-gray-800">Mohamed Hesham</span>, a web & UI/UX designer
+            — It's <span className="font-medium text-gray-800">Mohamed Hesham</span>, a Full Stack Web Developer & UI/UX designer
           </p>
         </motion.div>
 
