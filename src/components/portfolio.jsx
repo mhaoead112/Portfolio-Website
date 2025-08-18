@@ -37,7 +37,7 @@ const projects = [
   {
     title: "Portfolio Project",
     description: "A modern personal portfolio built with React, Tailwind CSS, and Framer Motion, showcasing projects, skills, and contact information with smooth animations and responsive design..",
-    image: "https://i.ibb.co/7NR2L9QM/Screenshot-2025-08-13-165208.png",
+    image: "https://i.ibb.co/Vc430P87/Screenshot-2025-08-18-141419.png",
     tech: ["React", "Tailwind", "Framer Motion"],
     live: "https://example.com/portfolio",
     github: "https://github.com/mhaoead112/Portfolio-Website",
