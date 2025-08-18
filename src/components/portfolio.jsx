@@ -3,12 +3,12 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "Taiyaki Restaurant Website",
+    title: "Taiyaki Restaurant Website Prototype",
     description: "A full-stack web application for a Japanese dessert shop specializing in Taiyaki. Customers can browse the menu, customize orders, and complete secure online payments. Includes an admin dashboard for managing orders, inventory, and daily sales reports. Built with the MERN stack for seamless performance and integrated with responsive UI/UX design for a smooth ordering experience on both desktop and mobile.",
     image: "https://i.ibb.co/YTyY7QCL/Screenshot-2025-08-12-005632.png", 
     tech: ["React", "Tailwind", "Node.js","MongoDB" , "JavaScript", "Express.js"],
     live: "https://taiyaki-website-cle4.vercel.app/",
-    github: "https://github.com/username/taiyaki",
+    github: null,
   },
     {
     title: "Klyr - Modern Cloud Banking & Finance Management",
