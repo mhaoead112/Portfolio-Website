@@ -39,21 +39,7 @@ export default function Hero() {
 
         {/* RIGHT: large hero image (absolute) */}
         <div className="relative w-full h-[85vh] overflow-hidden flex items-center justify-end">
-          <motion.img
-            src="https://i.ibb.co/9kX4g5V1/Male-Avatar.jpg"
-            alt="Profile"
-            initial={{ opacity: 0, x: 30 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.9 }}
-            className="absolute right-0 top-1/2 -translate-y-1/2 will-change-transform"
-            style={{
-              height: "110%",                 // exceed container height slightly for crop
-              minWidth: "62%",                // ensure big coverage of the right half
-              objectFit: "cover",
-              objectPosition: "8% 48%",      // <-- ADJUST THIS to center the face
-              filter: "grayscale(100%) contrast(1.05) brightness(0.98)",
-            }}
-          />
+          
         </div>
       </div>
 
