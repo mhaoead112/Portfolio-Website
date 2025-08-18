@@ -17,12 +17,12 @@ export default function Hero() {
           {/* Stats */}
           <div className="flex gap-12 text-gray-800 mb-8">
             <div>
-              <span className="block text-4xl font-light">+200</span>
+              <span className="block text-4xl font-light">+12</span>
               <span className="text-gray-500 uppercase tracking-wider text-xs">Projects completed</span>
             </div>
             <div>
-              <span className="block text-4xl font-light">+50</span>
-              <span className="text-gray-500 uppercase tracking-wider text-xs">Startups raised</span>
+              <span className="block text-4xl font-light">+15</span>
+              <span className="text-gray-500 uppercase tracking-wider text-xs">Certified Courses</span>
             </div>
           </div>
 
