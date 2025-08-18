@@ -40,7 +40,7 @@ export default function Hero() {
         {/* RIGHT: large hero image (absolute) */}
         <div className="relative w-full h-[85vh] overflow-hidden flex items-center justify-end">
           <motion.img
-            src="https://i.ibb.co/TMTbywwR/ada-Photoroom.jpg"
+            src="https://i.ibb.co/9kX4g5V1/Male-Avatar.jpg"
             alt="Profile"
             initial={{ opacity: 0, x: 30 }}
             animate={{ opacity: 1, x: 0 }}
